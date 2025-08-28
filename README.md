@@ -80,7 +80,7 @@
 
 ## 💪 Skill Progress (Visual)
 <p>
-  Flutter      <img src="https://img.shields.io/badge/Flutter-10%05-blue" alt="Flutter"/>
+  Flutter      <img src="https://img.shields.io/badge/Flutter-90%25-blue" alt="Flutter"/>
   Dart         <img src="https://img.shields.io/badge/Dart-85%25-blueviolet" alt="Dart"/>
   Firebase     <img src="https://img.shields.io/badge/Firebase-80%25-orange" alt="Firebase"/>
   HTML/CSS     <img src="https://img.shields.io/badge/HTML/CSS-80%25-red" alt="HTML/CSS"/>
