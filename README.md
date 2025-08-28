@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter App developer from Bangladesh</h3>
 
 
-<img align= "right" alt = "coding" width "350" sec ="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
+<img align= "right" alt = "coding" width "350" src ="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravsanyal1&label=Profile%20views&color=0e75b6&style=flat" alt="souravsanyal1" /> </p>
 
