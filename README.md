@@ -1,69 +1,53 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sourav Sanyal Joy</h1>
-<h3 align="center">🚀 Graphic Designer | 🌐 Web & Mobile Developer | 🎨 UI/UX Enthusiast</h3>
+<h2 align="left">Hi 👋! My name is Sourav Sanyal Joy and I'm a Graphic Designer & Web/Mobile Developer, from Bangladesh 🇧🇩</h2>
 
-<!-- Typing SVG Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Graphic+Designer;Web+%26+Mobile+Developer;UI%2FUX+Designer;Always+Learning+New+Tech!"/>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souravsanyal1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Souravsanyal1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🌟 About Me  
-- 🔭 Working as a **Freelance Graphic & Web Designer**  
-- 📚 Currently learning **HTML, CSS, JavaScript, Python, Solidity, Flutter & Figma**  
-- 🎨 Skilled in **Logo Design, Branding, Digital Marketing Materials & UI/UX**  
-- ⚡ Fun fact: *“Design is not just what it looks like. Design is how it works.”*  
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 🚀 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+</div>
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souravsanyal1&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravsanyal1&layout=compact&theme=tokyonight" alt="langs"/>
-</p>
+###
 
----
+<div align="left">
+  <a href="https://www.youtube.com/@YOUR-YOUTUBE" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="https://discord.gg/YOUR-DISCORD" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://souravsanyal.pro" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" /></a>
+</div>
 
-### 💎 Top Projects  
-<p align="center">
-  <a href="https://github.com/Souravsanyal1/Anime-Website" target="_blank">
-    <img src="https://github.com/Souravsanyal1/Anime-Website/raw/main/screenshot.png" alt="Anime Website" width="250"/>
-  </a>
-  <a href="https://github.com/Souravsanyal1/Earning-Site" target="_blank">
-    <img src="https://github.com/Souravsanyal1/Earning-Site/raw/main/screenshot.png" alt="Earning Site" width="250"/>
-  </a>
-  <a href="https://github.com/Souravsanyal1/Portfolio" target="_blank">
-    <img src="https://github.com/Souravsanyal1/Portfolio/raw/main/screenshot.png" alt="Portfolio Website" width="250"/>
-  </a>
-</p>
+###
 
-<p align="center">
-  🎨 <a href="https://github.com/Souravsanyal1/Anime-Website" target="_blank">**Anime Website**</a> · Built with React & Tailwind CSS <br>
-  💰 <a href="https://github.com/Souravsanyal1/Earning-Site" target="_blank">**Earning Dashboard**</a> · Referral + Ad View System <br>
-  🌐 <a href="https://github.com/Souravsanyal1/Portfolio" target="_blank">**Personal Portfolio**</a> · Flutter + Modern UI/UX
-</p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/output/snake.svg" alt="Snake animation" />
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://souravsanyal.pro" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+###
