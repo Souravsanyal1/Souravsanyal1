@@ -19,11 +19,11 @@
 <img align="right" alt="coding" width="350" src="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
 
 ## 🔭 About Me
-- I’m currently working on **Flutter ToDo List Apps & Blockchain DApps**.
-- 🌱 Learning **Firebase, Flutter, HTML, CSS, JavaScript, Solidity**.
+- I’m currently working on **Flutter ToDo List Apps, fOOD APP & MALTIY TASK APP**.
+- 🌱 Learning **Firebase, Flutter, HTML, CSS, JavaScript**.
 - 👯 Looking to collaborate on **Open Source Flutter Projects**.
 - 🤝 Open for mentorship and help with **UI/UX & Mobile Apps**.
-- 💬 Ask me about **Flutter, Firebase, HTML/CSS, Blockchain**.
+- 💬 Ask me about **Flutter, Firebase, HTML/CSS**.
 - 📫 Reach me at: **joysanyal1999@gmail.com**
 - ⚡ Fun fact: “I code, design, and occasionally drink coffee ☕️”
 
