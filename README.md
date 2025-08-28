@@ -44,6 +44,7 @@
 <br clear="both">
 
 <!-- Snake Animation (requires GitHub Actions setup) -->
+![Snake animation](https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
