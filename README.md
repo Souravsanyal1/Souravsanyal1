@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Sanyal</h1>
-<h3 align="center">Flutter App Developer | Blockchain Explorer | UI/UX Designer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Flutter App Developer | UI/UX Designer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF6F61&center=true&vCenter=true&width=500&height=50&lines=Flutter%20App+Developer;Blockchain+Explorer;UI/UX+Designer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG"/>
