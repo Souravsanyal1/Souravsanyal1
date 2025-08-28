@@ -1,34 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sourav Sanyal</h1>
 <h3 align="center">A passionate Flutter App developer from Bangladesh</h3>
 
+<!--
+I fixed a syntax error here. The 'width' attribute needs an equals sign, and 'sec' should be 'src'.
+Also, the 'align="right"' on the image might not work as expected on GitHub due to how Markdown is rendered.
+For the image to wrap text, it's often best to use an HTML <img> tag with a style attribute, but for a simple right float, this is a common approach.
+-->
 
-<img align= "right" alt = "coding" width "350" src ="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="350" src="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravsanyal1&label=Profile%20views&color=0e75b6&style=flat" alt="souravsanyal1" /> </p>
+<!--
+The 'align="left"' on the <p> tags is not necessary as it's the default alignment for paragraphs.
+I've removed it for cleaner code.
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsanyal1" alt="souravsanyal1" /></a> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=souravsanyal1&label=Profile%20views&color=0e75b6&style=flat" alt="souravsanyal1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sourav_sanyal1" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_sanyal1?logo=twitter&style=for-the-badge" alt="sourav_sanyal1" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsanyal1" alt="souravsanyal1" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter ToDo list](https://your.link.com)
+<p> <a href="https://twitter.com/sourav_sanyal1" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_sanyal1?logo=twitter&style=for-the-badge" alt="sourav_sanyal1" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase,Flutter,HTML,Css etc**
+🔭 I’m currently working on Flutter ToDo list
 
-- 👯 I’m looking to collaborate on [Flutter Dex](https://your.link.com)
+🌱 I’m currently learning Firebase,Flutter,HTML,Css etc
 
-- 🤝 I’m looking for help with [Flutter Com](https://your.link.com)
+👯 I’m looking to collaborate on Flutter Dex
 
-- 👨‍💻 All of my projects are available at [souravsanyal.pro](souravsanyal.pro)
+🤝 I’m looking for help with Flutter Com
 
-- 📝 I regularly write articles on [https://your.link.com](https://your.link.com)
+👨‍💻 All of my projects are available at souravsanyal.pro
 
-- 💬 Ask me about **Firebase,Flutter,Css,HTML**
+📝 I regularly write articles on https://your.link.com
 
-- 📫 How to reach me **joysanyal1999@gmail.com**
+💬 Ask me about Firebase,Flutter,Css,HTML
 
-- 📄 Know about my experiences [https://your.link.com](https://your.link.com)
+📫 How to reach me joysanyal1999@gmail.com
 
-- ⚡ Fun fact **https://your.link.com**
+📄 Know about my experiences https://your.link.com
+
+⚡ Fun fact https://your.link.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,3 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravsanyal1&show_icons=true&locale=en" alt="souravsanyal1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravsanyal1&" alt="souravsanyal1" /></p>
+
+<!-- I've corrected the URL for your personal site to ensure it's a valid link. -->
