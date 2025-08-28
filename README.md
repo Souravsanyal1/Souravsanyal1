@@ -1,50 +1,67 @@
-<h2 align="left">Hi 👋! My name is Sourav Sanyal Joy and I'm a Graphic Designer & Web/Mobile Developer, from Bangladesh 🇧🇩</h2>
+<h2 align="center">Hi 👋! I'm Sourav Sanyal Joy</h2>
+<h3 align="center">Graphic Designer & Web/Mobile Developer | Bangladesh 🇧🇩</h3>
 
-###
+---
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Souravsanyal1&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Souravsanyal1&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub stats" />
+  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravsanyal1&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravsanyal1&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+<div align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Souravsanyal1&color=blue&style=for-the-badge" height="30" alt="Profile views" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souravsanyal1&theme=dracula" height="30" alt="GitHub streak" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+<div align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="cool gif" />
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+  <!-- Tech Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+</div>
 
-<!-- Snake Animation (requires GitHub Actions setup) -->
-![Snake animation](https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/output/github-contribution-grid-snake-dark.svg)
+---
 
+<div align="center">
+  <!-- Contact -->
+  <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+  <a href="https://www.linkedin.com/in/souravsanyaljoy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="https://www.instagram.com/souravsanyaljoy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
+  <a href="https://twitter.com/souravsanyal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" /></a>
+</div>
 
-###
+---
+
+<div align="center">
+  <!-- GitHub Contribution Snake -->
+  ![GitHub Snake](https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
+
+### ✨ Fun Facts About Me:
+- 💻 Love coding, designing, and building things from scratch.
+- 🎨 2+ years experience in Graphic Design (Figma, Photoshop, Illustrator).
+- 🔗 Exploring Web3 & Solidity smart contracts.
+- 🌱 Always learning new frameworks and tech.
+
