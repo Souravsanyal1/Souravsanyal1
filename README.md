@@ -18,7 +18,6 @@ I've removed it for cleaner code.
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravsanyal1" alt="souravsanyal1" /></a> </p>
 
-<p> <a href="https://twitter.com/sourav_sanyal1" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_sanyal1?logo=twitter&style=for-the-badge" alt="sourav_sanyal1" /></a> </p>
 
 🔭 I’m currently working on Flutter ToDo list
 
