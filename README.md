@@ -52,10 +52,10 @@
 
 ---
 
+
 <div align="center">
   <!-- GitHub Contribution Snake -->
-  ![[GitHub Snake](https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-contribution-grid-snake-dark.svg
-)
+
 </div>
 
 ---
