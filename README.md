@@ -8,7 +8,7 @@ Also, the 'align="right"' on the image might not work as expected on GitHub due 
 For the image to wrap text, it's often best to use an HTML <img> tag with a style attribute, but for a simple right float, this is a common approach.
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&color=FF6F61&center=true&vCenter=true&width=500&height=50&lines=Flutter%20App+Developer;Blockchain+Explorer;UI/UX+Designer" alt="Typing SVG"/>
+  <img src="https://github.com/Souravsanyal1/Souravsanyal1/blob/main/coding.gif" alt="Typing SVG"/>
 </p>
 
 <img align="right" alt="coding" width="350" src="https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
