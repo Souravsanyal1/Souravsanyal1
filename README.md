@@ -49,8 +49,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravsanyal1&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Souravsanyal1%20" alt="GitHub Streak" /></a>
-
 <p align="center">
   <img src="https://github.com/Souravsanyal1/Souravsanyal1/blob/main/default.svg" alt="Activity Graph" width="100%"/>
 </p>
