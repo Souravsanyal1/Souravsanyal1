@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/main/sourav%20sanyal%20(1).png" alt="Sourav Sanyal" width="1960"/>
+  <img src="https://i.postimg.cc/vTzXrKkm/Sourav-Linkedin.png" alt="Sourav Sanyal" width="1960"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Sanyal</h1>
