@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravsanyal1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://linkedin.com/in/sourav-sanyal-0064542a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/sourav-sanyal-joy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
   <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/></a>
 </p>
 
@@ -97,11 +97,10 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/sourav_sanyal1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/sourav-sanyal-0064542a2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://fb.com/sssj24465"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sourav-sanyal-joy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/sourav.sanyal.devoloper"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
   <a href="https://instagram.com/sourav_sanyal22"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-  <a href="https://www.youtube.com/c/enjoyvai2.0"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
+  <a href="https://youtube.com/@enjoy_vai2.0_all_in_one"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
 
 ---
