@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/vTzXrKkm/Sourav-Linkedin.png](https://i.postimg.cc/VLDWZQtN/Chat-GPT-Image-Jun-23-2026-11-38-38-AM.png" alt="Sourav Sanyal" width="100%"/>
+  <img src="https://i.postimg.cc/VLDWZQtN/Chat-GPT-Image-Jun-23-2026-11-38-38-AM.png" alt="Sourav Sanyal" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sourav Sanyal</h1>
