@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravsanyal1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/sourav-sanyal-joy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://x.com/Souravisms"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x"/></a>
   <a href="mailto:joysanyal1999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/></a>
 </p>
 
@@ -97,30 +98,32 @@
 | **ToDo List App** | Task manager with categories, reminders & cloud sync | Flutter, GetX, Firebase | [Repo](https://github.com/souravsanyal1) |
 | **Food Delivery App** | Restaurant browsing, cart & order tracking UI | Flutter, GetX, REST API | [Repo](https://github.com/souravsanyal1) |
 | **Multi-Task App** | Productivity app for managing daily tasks & notes | Flutter, GetX, Hive | [Repo](https://github.com/souravsanyal1) |
+| **POS App** | Point-of-sale system with billing & inventory tracking | Flutter, GetX, SQLite | [Repo](https://github.com/souravsanyal1) |
 
 > 🔗 More projects on my portfolio: [souravsanyal.pro](https://souravsanyal.pro)
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sourav-sanyal-joy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/sourav.sanyal.devoloper"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
-  <a href="https://instagram.com/sourav_sanyal22"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-  <a href="https://youtube.com/@enjoy_vai2.0_all_in_one"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
-</p>
 
 ---
 
 ### 💪 Skill Progress
 
 <p align="left">
-  Flutter &nbsp; <img src="https://img.shields.io/badge/-90%25-brightgreen"/><br/>
-  Dart &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-85%25-blueviolet"/><br/>
-  Firebase &nbsp; <img src="https://img.shields.io/badge/-80%25-orange"/><br/>
-  GetX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-75%25-purple"/><br/>
-  HTML/CSS <img src="https://img.shields.io/badge/-80%25-red"/>
+  Flutter &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-90%25-brightgreen"/><br/>
+  Dart &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-85%25-blueviolet"/><br/>
+  Firebase &nbsp;&nbsp; <img src="https://img.shields.io/badge/-80%25-orange"/><br/>
+  GetX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-75%25-purple"/><br/>
+  HTML/CSS &nbsp; <img src="https://img.shields.io/badge/-80%25-red"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sourav-sanyal-joy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://x.com/Souravisms" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" height="30" width="30"/></a>
+  <a href="https://www.facebook.com/sourav.sanyal.devoloper" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <a href="https://instagram.com/sourav_sanyal22" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://youtube.com/@enjoy_vai2.0_all_in_one" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/></a>
 </p>
 
 ---
