@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sourav Sanyal</h1>
-<h3 align="center">Flutter Developer | Building mobile apps with Flutter & Firebase</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/main/assets/sourav-sanyal-banner.png" width="100%" alt="Sourav Sanyal - Web Developer & Mobile App Developer" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Flutter+%26+Firebase+Developer;Learning+Backend+%26+PostgreSQL;Exploring+Cloud+Technologies;Always+shipping+something+new" alt="Typing SVG" />
