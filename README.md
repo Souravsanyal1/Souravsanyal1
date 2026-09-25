@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/main/assets/sourav sanyal (1).png" width="100%" alt="Sourav Sanyal - Web Developer & Mobile App Developer" />
+  <img src="https://raw.githubusercontent.com/Souravsanyal1/Souravsanyal1/main/sourav sanyal (1).png" width="100%" alt="Sourav Sanyal - Web Developer & Mobile App Developer" />
 </p>
 
 <p align="center">
